@@ -1,0 +1,156 @@
+{
+  "airport-11": {
+    "height": 23,
+    "pixelRatio": 1,
+    "width": 23,
+    "x": 0,
+    "y": 0
+  },
+  "oneway": {
+    "height": 21,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 43,
+    "y": 0
+  },
+  "place-circled-dot-black": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 64,
+    "y": 0
+  },
+  "place-dot-black": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 45
+  },
+  "road_1": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 144,
+    "y": 45
+  },
+  "road_2": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 164,
+    "y": 45
+  },
+  "road_3": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 72,
+    "y": 65
+  },
+  "road_4": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 98,
+    "y": 65
+  },
+  "road_5": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 38,
+    "x": 130,
+    "y": 65
+  },
+  "road_6": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 44,
+    "x": 78,
+    "y": 23
+  },
+  "us-highway_1": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 20,
+    "y": 45
+  },
+  "us-highway_2": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 40,
+    "y": 45
+  },
+  "us-highway_3": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 60,
+    "y": 45
+  },
+  "us-highway_4": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 0,
+    "y": 65
+  },
+  "us-interstate_1": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 23,
+    "y": 0
+  },
+  "us-interstate_2": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 0,
+    "y": 23
+  },
+  "us-interstate_3": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 20,
+    "y": 23
+  },
+  "us-interstate_4": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 46,
+    "y": 23
+  },
+  "us-state_1": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 32,
+    "y": 65
+  },
+  "us-state_2": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 52,
+    "y": 65
+  },
+  "us-state_3": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 86,
+    "y": 45
+  },
+  "us-state_4": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 112,
+    "y": 45
+  }
+}
